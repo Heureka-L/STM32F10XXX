@@ -3,14 +3,14 @@
         {
             "name": "Target 1",
             "includePath": [
-                "c:\\Users\\Eureka\\Desktop\\Stm32Project\\007外部中断-复习\\StartupFile",
-                "c:\\Users\\Eureka\\Desktop\\Stm32Project\\007外部中断-复习\\Public",
-                "c:\\Users\\Eureka\\Desktop\\Stm32Project\\007外部中断-复习\\Library",
-                "c:\\Users\\Eureka\\Desktop\\Stm32Project\\007外部中断-复习\\Hardware",
-                "c:\\Users\\Eureka\\Desktop\\Stm32Project\\007外部中断-复习\\System",
+                "d:\\Git_Library\\STM32F10XXX\\007外部中断-复习\\StartupFile",
+                "d:\\Git_Library\\STM32F10XXX\\007外部中断-复习\\Public",
+                "d:\\Git_Library\\STM32F10XXX\\007外部中断-复习\\Library",
+                "d:\\Git_Library\\STM32F10XXX\\007外部中断-复习\\Hardware",
+                "d:\\Git_Library\\STM32F10XXX\\007外部中断-复习\\System",
                 "E:\\Keil5\\ARM\\ARMCC\\include",
                 "E:\\Keil5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\Eureka\\Desktop\\Stm32Project\\007外部中断-复习\\HardWare"
+                "d:\\Git_Library\\STM32F10XXX\\007外部中断-复习\\HardWare"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",
