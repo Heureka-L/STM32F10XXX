@@ -1,0 +1,10 @@
+*.crf
+*.d
+*.o
+*.dep
+*.axf
+*.htm
+*.inp
+*.sct
+
+*.uvguix.*
