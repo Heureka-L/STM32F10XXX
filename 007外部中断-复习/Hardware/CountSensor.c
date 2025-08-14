@@ -1,7 +1,7 @@
 #include "stm32f10x.h"
 
 uint16_t count;
-
+//注释
 void CounterInit(void){
     RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB,ENABLE);
     RCC_APB2PeriphClockCmd(RCC_APB2Periph_AFIO,ENABLE);
