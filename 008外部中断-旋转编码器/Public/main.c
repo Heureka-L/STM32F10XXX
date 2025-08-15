@@ -1,12 +1,16 @@
 #include "stm32f10x.h"                  // Device header
 #include "stdio.h"
 #include "stdlib.h"
-#include "CountSensor.h"
 #include "LED.h"
+#include "R_Encoder.h"
+
+uint16_t EncoderNum = 0;
+
 int main(void){
-	CounterInit();
 	LED_Init();
+	R_EncoderInit();
 	while(1){
-		LED_ShowNum(counterGet());
+		EncoderNum += R_EncoderGet();
+		LED_ShowNum(EncoderNum);
 	}
 }

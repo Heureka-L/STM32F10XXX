@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "stm32f10x.h": "c"
+        "*.embeddedhtml": "html",
+        "stm32f10x.h": "c",
+        "algorithm": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
