@@ -4,7 +4,7 @@
 *.dep
 *.axf
 *.htm
-*.inp
+*.lnp 
 *.sct
 
 *.uvguix.*
